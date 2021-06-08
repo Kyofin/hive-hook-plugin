@@ -8,10 +8,10 @@
 ![](http://image-picgo.test.upcdn.net/img/20210608144537.png)
 
 ## Table of contents
-- [Demo-Preview](##Demo-Preview)
-- [Usage](##Usage)
-- [Installation](##Installation)
-- [Development](##Development)
+- [Demo-Preview](#Demo-Preview)
+- [Usage](#Usage)
+- [Installation](#Installation)
+- [Development](#Development)
 
 ## Usage
 [(Back to top)](#table-of-contents)
